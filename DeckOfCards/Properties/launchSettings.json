@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DeckOfCards": {
+      "commandName": "Project",
+      "commandLineArgs": "-include"
+    }
+  }
+}
